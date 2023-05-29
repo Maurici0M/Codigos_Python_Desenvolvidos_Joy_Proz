@@ -36,3 +36,5 @@ def personagens_naruto (array):
 dados = ['Naruto', 'Sasuke', 'Orochimaru', 'Hokage', 'Sakura', 'Tsunade', 'Sasori', 'Gaara', 'Asuma', 'Kurenai', 'Zabuza', 'Haku', 'Kakashi', 'Ino', 'Chyoji', 'Jiraiya', 'Kabuto', 'Itachi', 'Raposa de 9 Caudas', 'Kankuro', 'Hinata', 'Akamaru']
 
 personagens_naruto(dados)
+
+#TESTE DE MERGE
