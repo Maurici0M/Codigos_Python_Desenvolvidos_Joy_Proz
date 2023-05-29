@@ -38,3 +38,5 @@ else:
     print("Não se preocupe, você poderá utilizar outras formas de pagamento para acrescentar o valor restante.")
 
     print("Falta pagar: R$",valor_refeicao - dinheiro)
+    
+    
