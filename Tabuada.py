@@ -1,10 +1,9 @@
-def tabuada(num2):
+def tabuada(numero2):
   multiplicacao = i * num2
   return multiplicacao
 
 numero2 = int (input("Digite um número e veja a tabuada dele: "))
 print("")
-
 
 i = - 1
 
@@ -20,5 +19,6 @@ else:
   print("")
   print("Muito obrigado por utilizar a calculadora!")
   print("")
-  print("                                                                                 Feito por Mauricio ;)")
-  
+  print("                                                                                 Feito por Mauricio ;)") 
+
+
