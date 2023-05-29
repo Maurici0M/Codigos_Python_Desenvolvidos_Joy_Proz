@@ -1,4 +1,4 @@
-#Precisamos imprimir um número para cada andar de um hotel de 20 andares. Porém, o dono do hotel é supersticioso e optou por não ter um 13ro andar.
+#Precisamos imprimir um número para cada andar de um hotel de 20 andares. Porém, o dono do hotel é supersticioso e optou por não ter um 13º andar.
 #Escreva um código que imprima todos os números exceto o número 13.
 
 # * * * Esse é o código com os comandos "for", "range", "continue e "break",que será executado de forma crescente (1,2,3...)
@@ -21,6 +21,8 @@ for i in range(0,21):
 
 
   print("Subindo para o andar número: ",numero)
+print('________________________________________')
+ 
 
   
 #Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
@@ -44,8 +46,7 @@ for i in range(20,0,-1):
 
 
   print("Descendo para o andar de número: ",numero)
-  print("")
-
+print('________________________________________')
 
 #Escreva mais dois códigos que resolvam o mesmo problema, mas dessa vez usando os outros dois tipos de laços de repetição aprendidos.
 # * * * Exemplo utilizando o comando "While" e "IF".
@@ -57,3 +58,4 @@ while numeral <=20:
     if numeral != 13:
         print("Esse é o andar",numeral)
     numeral += 1
+print('________________________________________')
