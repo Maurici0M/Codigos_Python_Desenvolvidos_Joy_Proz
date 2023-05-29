@@ -13,7 +13,7 @@ def categoria_cnh(pessoas, rodas, peso):
     else:
         categoria = "Algo saiu errado. Não consegui identificar a melhor CNH para você. Volte a tentar inserir os dados novamente."
 
-    print("Legal! A categoria ideal da sua CNH foi Categoria:", categoria)
+    print(f"Legal! A categoria ideal da sua CNH foi Categoria: {categoria}")
 
 pessoas = int (input("Quantas pessoas você carregará no veículo? "))
 rodas = int (input("Quantas rodas o veículo que você irá dirigir tem? "))
