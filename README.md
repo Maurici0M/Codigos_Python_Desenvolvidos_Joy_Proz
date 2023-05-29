@@ -1,1 +1,1 @@
-# Codigos_Python_Desenvolvidos_Joy_Proz
+# Estes são códigos desenvolvidos durante as atividades de Python, sendo anexados agora, aqui no GitHub.
